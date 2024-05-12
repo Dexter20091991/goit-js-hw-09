@@ -118,3 +118,12 @@ textarea {
   letter-spacing: 0.64px;
   
 }
+
+.feedback-form > button:hover {
+  background:#6C8CFF;
+  ;
+}
+
+input:hover {
+  border: 1px solid #000000;
+}
